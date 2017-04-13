@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+### Welcome to 3Down
 
-You can use the [editor on GitHub](https://github.com/adrifcastr/3Down/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you went over here, you probably are a N3DS user using Arm9LoaderHax + Luma3DS/Corbenik/anything else that supports the 11.4 NFIRM of the 3DS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You are probably here because the 11.4 System Update patched something that requires NTR itself to be updated by Cell9 to re-allow N3DS Screen Streaming and you want to go back to 11.3 without using SysDowngrader and the CIA Package.
 
-### Markdown
+### Overview of steps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
-```markdown
-Syntax highlighted code block
+### What you need
 
-# Header 1
-## Header 2
-### Header 3
+- The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
+- A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 
 - Bulleted
 - List
