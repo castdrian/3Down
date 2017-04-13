@@ -13,7 +13,7 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
 - The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-- The [ctrtransfer11.3-N3DS EUR File](magnet:?xt=urn:btih:A3496F503B1759119BBDBAB23827F15264B101F2&dn=ctrtransfer11.3-N3DS.rar&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+- The [ctrtransfer11.3-N3DS EUR](magnet:?xt=urn:btih:A3496F503B1759119BBDBAB23827F15264B101F2&dn=ctrtransfer11.3-N3DS.rar&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) File
 
 ### Instructions
 
