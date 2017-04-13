@@ -24,6 +24,6 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 5. Navigate to **CTRNAND transfer...**
 6. Select **Auto CTRNAND Transfer**
 7. Put in the given Code to unlock SysNAND writing
-8. select **ctrtransfer11.3-N3DS.bin** and hit **A** to confirm
+8. Select **ctrtransfer11.3-N3DS.bin** and hit **A** to confirm
 9. Wait for the process to finish and reboot
 
