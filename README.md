@@ -13,6 +13,17 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
 - The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-- The [ctrtransfer11.3-N3DS]()
+- The [ctrtransfer11.3-N3DS EUR File](magnet:?xt=urn:btih:A3496F503B1759119BBDBAB23827F15264B101F2&dn=ctrtransfer11.3-N3DS.rar&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
+### Instructions
+
+1. Remove your SD card from your device, then insert your SD card into your computer
+2. Extract the content of **ctrtransfer11.3-N3DS.zip** to the root of your SD Card
+3. Put the SD Card back into your N3DS and launch Decrypt9WIP
+4. Navigate to **SysNAND Options**
+5. Navigate to **CTRNAND transfer...**
+6. Select **Auto CTRNAND Transfer**
+7. Put in the given Code to unlock SysNAND writing
+8. select **ctrtransfer11.3-N3DS.bin** and hit **A** to confirm
+9. Wait for the process to finish and reboot
 
