@@ -53,3 +53,5 @@ If you want to support me you can do that right [Here](https://www.paypal.me/adr
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Do you see any ads? ^^
