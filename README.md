@@ -35,7 +35,7 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 ### Credits
 - me 
 - MegaMagikarp
-- Plailects-Guide-Riting-Style
+- Plailects-Guide-Writing-Style
 
 ### Donations
 
