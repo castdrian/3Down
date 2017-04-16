@@ -13,7 +13,7 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
 - The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-- The CTRNAND-Transer File corresponding to your Region.
+- The CTRNAND-Transer File corresponding to your 3DS Model and Region.
    - [11.3.0-36E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1D57D6CEC27B6C69212E3D38A423D2920CD7F35B&dn=11.3.0-36E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) 
    - [11.3.0-36U_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E092D5CD157AAE22A286E8691B135D380962356C&dn=11.3.0-36U_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
    - [11.3.0-36J_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:B77C5E836159AED32E9056E8AB296053BC2BD40A&dn=11.3.0-36J_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
@@ -29,7 +29,7 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 7. Navigate to **CTRNAND transfer...**
 8. Select **Auto CTRNAND Transfer**
 9. Put in the given Code to unlock SysNAND writing
-10. Select **ctrtransfer11.3-N3DS.bin** and hit **A** to confirm
+10. Select **11.3.0-36X_ctrtransfer_x3ds.bin** and hit **A** to confirm
 11. Wait for the process to finish and reboot
 
 ### Credits
