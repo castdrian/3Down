@@ -39,5 +39,5 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
 ### Donations
 
-If you want to support me you can do that right [Here](paypal.me/adrifcastr)
-
+If you want to support me you can do that right [Here](https://www.paypal.me/adrifcastr)
+(I am seeding the Torrents by myself rn!)
