@@ -41,3 +41,15 @@ In this section, we will be flashing your device’s CTRNAND partition to 11.3
 
 If you want to support me you can do that right [Here](https://www.paypal.me/adrifcastr)
 (I am seeding the Torrents by myself rn!)
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 3Down -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1269180183054029"
+     data-ad-slot="7240651192"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
