@@ -75,16 +75,18 @@ In this section, we will be restoring your device's Tickets
 7. Hit **A** to inject it
 7. Hit **START** to reboot
 
+### Donations
+
+If you want to support me you can do that right [Here](https://www.paypal.me/adrifcastr)
+(I am seeding the Torrents by myself rn!)
+
 ### Credits
 - me 
 - MegaMagikarp
 - d0k3 for his work on Decrypt9WIP
 - Plailects-Guide-Writing-Style
 
-### Donations
 
-If you want to support me you can do that right [Here](https://www.paypal.me/adrifcastr)
-(I am seeding the Torrents by myself rn!)
 
 
 
