@@ -81,7 +81,7 @@ If you want to support me you can do that right [Here](https://www.paypal.me/adr
 (I am seeding the Torrents by myself rn!)
 
 ### Credits
-- me 
+- me (adrifcastr/addi33)
 - MegaMagikarp
 - d0k3 for his work on Decrypt9WIP
 - Plailects-Guide-Writing-Style
