@@ -67,7 +67,7 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 In this section, we will be restoring your device's Tickets
 
 ### Instructions
-1. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
+1. Launch the Luma3DS Chainloader by holding **START** at boot
 2. Launch Decrypt9WIP
 3. Navigate to **SysNAND Options**
 4. Navigate to **System File Inject...**
