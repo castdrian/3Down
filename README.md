@@ -2,7 +2,7 @@
 
 If you went over here, you probably are a N3DS user using Arm9LoaderHax + Luma3DS/Corbenik/anything else that supports the 11.4 NFIRM of the 3DS.
 
-And you want do CTRTRANSFER to another Firmware instead of using SydDowngrader.
+And you want do CTRTRANSFER to another Firmware instead of using SysDowngrader.
 So just follow the given instructions.
 
 
