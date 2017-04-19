@@ -12,7 +12,7 @@ So just follow the given instructions.
 - The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 - The CTRNAND-Transer File corresponding to your 3DS Model, Region and Firmware you want.
-   - [11.2.0-35E ctrtransfer n3ds.7z](magnet:?xt=urn:btih:1C1C3CA3791D32CF5130A896E1DAE81F70AB40F5&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+   - [11.2.0-35E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1C1C3CA3791D32CF5130A896E1DAE81F70AB40F5&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
    - [11.3.0-36E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1D57D6CEC27B6C69212E3D38A423D2920CD7F35B&dn=11.3.0-36E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) 
    - [11.3.0-36U_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E092D5CD157AAE22A286E8691B135D380962356C&dn=11.3.0-36U_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
    - [11.3.0-36J_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:B77C5E836159AED32E9056E8AB296053BC2BD40A&dn=11.3.0-36J_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
@@ -67,12 +67,13 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 In this section, we will be restoring your device's Tickets
 
 ### Instructions
-4. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
-5. Launch Decrypt9WIP
-6. Navigate to **SysNAND Options**
-6. Navigate to **System File Inject...**
-7. Navigate to **Ticket/Titlekey Options**
-8. Select **Inject Ticket.db** 
+1. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
+2. Launch Decrypt9WIP
+3. Navigate to **SysNAND Options**
+4. Navigate to **System File Inject...**
+5. Navigate to **Ticket/Titlekey Options**
+6. Select **Inject Ticket.db**
+7. Hit **START** to reboot
 
 ### Credits
 - me 
