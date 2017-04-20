@@ -77,7 +77,7 @@ In this section, we will be restoring your device's Tickets
 
 ### Donations
 
-If you want to support me you can do that right [Here](https://www.paypal.me/adrifcastr)
+If you want to support me to keep this project alive you can do that right [Here](https://www.paypal.me/adrifcastr)
 (I am seeding the Torrents by myself rn!)
 
 ### Credits
