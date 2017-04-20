@@ -39,9 +39,9 @@ In this section, we will be backing up your device's Tickets
 2. Put the Decrypt9WIP.bin from the Decrypt9WIP release into /luma/payloads
 3. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 4. Launch Decrypt9WIP
-5. Navigate to **SysNAND Options**
-6. Navigate to **System File Dump...**
-7. Select **Dump ticket.db** 
+5. Navigate to **Ticket/Titlekey Options**
+6. Navigate to **Ticket Dump (SysNAND) / (EmuNAND) if you are using this guide on an Emunand**
+7. Wait for the process to finish 
 
 ### Section III - CTRNAND Transfer
 
@@ -67,13 +67,13 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 In this section, we will be restoring your device's Tickets
 
 ### Instructions
-1. Launch the Luma3DS Chainloader by holding **START** at boot
-2. Launch Decrypt9WIP
-3. Navigate to **SysNAND Options**
-4. Navigate to **System File Inject...**
-6. Select **Inject ticket.db**
-7. Hit **A** to inject it
-7. Hit **START** to reboot
+1. Launch **FBI**
+2. Navigte to ** SD -> files9**
+3. Navigate to **current directory**
+4. Hit **A**
+6. Select **Install and delete all Tickets**
+7. Hit **A** to install
+7. Exit **FBI**
 
 ### Donations
 
@@ -84,6 +84,7 @@ If you want to support me to keep this project alive you can do that right [Here
 - me (adrifcastr/addi33)
 - MegaMagikarp
 - d0k3 for his work on Decrypt9WIP
+- saibotu for some ticket related info
 - Plailects-Guide-Writing-Style
 
 
