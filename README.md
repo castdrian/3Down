@@ -68,7 +68,7 @@ In this section, we will be restoring your device's Tickets
 
 ### Instructions
 1. Launch **FBI**
-2. Navigte to ** SD -> files9**
+2. Navigte to **SD -> files9**
 3. Navigate to **current directory**
 4. Hit **A**
 6. Select **Install and delete all Tickets**
