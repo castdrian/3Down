@@ -47,7 +47,7 @@ In this section, we will be backing up your device's Tickets
 3. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 4. Launch Decrypt9WIP
 5. Navigate to **Ticket/Titlekey Options**
-6. Navigate to **Ticket Dump (SysNAND) / (EmuNAND) if you are using this guide on an Emunand**
+6. Navigate to **Ticket Dump (SysNAND) / (EmuNAND) if you are using this guide on an EmuNAND**
 7. Wait for the process to finish 
 
 ### Section III - CTRNAND Transfer
@@ -61,7 +61,7 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 3. Extract the content of the **11.X.0-3XX_ctrtransfer_x3ds.7z file** to the root of your SD Card
 4. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 5. Launch Decrypt9WIP
-6. Navigate to **SysNAND Options**
+6. Navigate to **SysNAND Options / EmuNAND Options if you are using this guide on an EmuNAND**
 7. Navigate to **CTRNAND transfer...**
 8. Select **Auto CTRNAND Transfer**
 9. Put in the given Code to unlock SysNAND writing
