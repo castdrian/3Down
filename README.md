@@ -12,10 +12,15 @@ So just follow the given instructions.
 - The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 - The CTRNAND-Transer File corresponding to your 3DS Model, Region and Firmware you want.
+
+##N3DS       
+# 11.2
    - [11.2.0-35E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1C1C3CA3791D32CF5130A896E1DAE81F70AB40F5&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+# 11.3   
    - [11.3.0-36E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1D57D6CEC27B6C69212E3D38A423D2920CD7F35B&dn=11.3.0-36E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) 
    - [11.3.0-36U_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E092D5CD157AAE22A286E8691B135D380962356C&dn=11.3.0-36U_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
    - [11.3.0-36J_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:B77C5E836159AED32E9056E8AB296053BC2BD40A&dn=11.3.0-36J_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+# 11.4   
    - [11.4.0-37E ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E2BC86AB8A1BE69C146A22667F03D3A6FBE833F3&dn=11.4.0-37E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
 ### Section I - Updating Luma3DS
@@ -68,7 +73,7 @@ In this section, we will be restoring your device's Tickets
 
 ### Instructions
 1. Launch **FBI**
-2. Navigte to **SD -> files9**
+2. Navigate to **SD -> files9**
 3. Navigate to **current directory**
 4. Hit **A**
 6. Select **Install and delete all Tickets**
