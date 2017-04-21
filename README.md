@@ -13,7 +13,7 @@ So just follow the given instructions.
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 - The CTRNAND-Transer File corresponding to your 3DS Model, Region and Firmware you want.
 
-##N3DS       
+## N3DS       
 # 11.2
    - [11.2.0-35E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1C1C3CA3791D32CF5130A896E1DAE81F70AB40F5&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 # 11.3   
