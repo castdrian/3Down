@@ -97,7 +97,9 @@ In this section, we will be restoring your device's Tickets and friendsave.bin
 
 ### Donations
 
-If you want to support me to keep this project alive you can do that right [Here](https://www.paypal.me/adrifcastr)
+If you want to support me to keep this project alive you can do that right Here:
+- [Paypal](https://www.paypal.me/adrifcastr)
+- Bitcoin: 19oxvLrCc688DRV9cXTSV1wnQtozRKC6uC
 (I am seeding the Torrents by myself rn!)
 
 ### Credits
