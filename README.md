@@ -40,7 +40,7 @@ In this section, we will be Updating Luma3DS to the latest one available. If you
 ### Section II - Backing up Tickets & friendsave.bin
 
 ### Overview of steps
-In this section, we will be backing up your device's Tickets
+In this section, we will be backing up your device's Tickets and friendsave.bin
 
 ### Instructions
 
@@ -77,7 +77,7 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 ### Section IV - Restoring Tickets
 
 ### Overview of steps
-In this section, we will be restoring your device's Tickets
+In this section, we will be restoring your device's Tickets and friendsave.bin
 
 ### Instructions
 
