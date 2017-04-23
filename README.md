@@ -5,6 +5,8 @@ If you went over here, you probably are a N3DS user using Arm9LoaderHax + Luma3D
 And you want to CTRTRANSFER to another Firmware instead of using SysDowngrader.
 So just follow the given instructions.
 
+**NEVER EVER WRITE CHANGES TO YOUR SYSNAND WITHOUT HAVING A NAND BACKUP**
+
 
 ### What you need
 
@@ -110,3 +112,7 @@ If you want to support me to keep this project alive you can do that right [Here
 
 
 Do you see any ads? ^^
+
+
+
+(Disclaimer: I am not responsible if your console takes any type of damage!)
