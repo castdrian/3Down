@@ -35,7 +35,7 @@ In this section, we will be Updating Luma3DS to the latest one available. If you
 1. Remove your SD card from your device, then insert your SD card into your computer
 2. Put the **arm9loaderhax.bin** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files
 
-### Section II - Backing up Tickets
+### Section II - Backing up Tickets & friendsave.bin
 
 ### Overview of steps
 In this section, we will be backing up your device's Tickets
@@ -49,6 +49,10 @@ In this section, we will be backing up your device's Tickets
 5. Navigate to **Ticket/Titlekey Options**
 6. Navigate to **Ticket Dump (SysNAND) / (EmuNAND) if you are using this guide on an EmuNAND**
 7. Wait for the process to finish 
+8. Navigate to **SysNAND Options / EmuNAND Options if you are using this guide on an EmuNAND**
+9. Navigate to **System Save Dump...**
+10. Select **Dump friendsave.bin** 
+
 
 ### Section III - CTRNAND Transfer
 
@@ -64,7 +68,7 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 6. Navigate to **SysNAND Options / EmuNAND Options if you are using this guide on an EmuNAND**
 7. Navigate to **CTRNAND transfer...**
 8. Select **Auto CTRNAND Transfer**
-9. Put in the given Code to unlock SysNAND writing
+9. Put in the given Code to unlock NAND writing
 10. Select **11.X.0-3XX_ctrtransfer_x3ds.bin** and hit **A** to confirm
 11. Wait for the process to finish and reboot
 
@@ -74,13 +78,20 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 In this section, we will be restoring your device's Tickets
 
 ### Instructions
-1. Launch **FBI**
-2. Navigate to **SD -> files9**
-3. Navigate to **current directory**
-4. Hit **A**
-6. Select **Install and delete all Tickets**
-7. Hit **A** to install
-7. Exit **FBI**
+
+1. Launch Decrypt9WIP
+2. Navigate to **Ticket/Titlekey Options**
+3. Navigate to **SysNAND Options / EmuNAND Options if you are using this guide on an EmuNAND**
+4. Navigate to **System Save Inject...**
+5. Select **Inject friendsave.bin** 
+6. Put in the given Code to unlock NAND writing and confirm the injecton
+7. Launch **FBI**
+8. Navigate to **SD -> files9**
+9. Navigate to **current directory**
+10. Hit **A**
+11. Select **Install and delete all Tickets** and hit **A** to install
+12. Exit **FBI**
+
 
 ### Donations
 
