@@ -104,6 +104,11 @@ If you want to support me to keep this project alive you can do that right Here:
 
 (I am seeding the Torrents by myself rn!)
 
+### Contact
+- Mail: adrian.f.castro.mail@gmail.com
+- Temp: @addi33
+- Discord: #4530
+
 ### Credits
 - me (adrifcastr/addi33)
 - MegaMagikarp
