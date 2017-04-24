@@ -26,6 +26,10 @@ So just follow the given instructions.
    
 **11.4**   
    - [11.4.0-37E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E2BC86AB8A1BE69C146A22667F03D3A6FBE833F3&dn=11.4.0-37E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   (by me)
+   
+## O3DS/2DS
+**11.2**
+- [11.2.0-35U_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:e448fa57d33ce6fb69dce2ddf08fc657fdc3910a&dn=11.2.0-35U_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce)
 
 ### Section I - Updating Luma3DS
 
@@ -112,6 +116,7 @@ If you want to support me to keep this project alive you can do that right Here:
 ### Credits
 - me (adrifcastr/addi33)
 - MegaMagikarp
+- Yuan
 - d0k3 for his work on Decrypt9WIP
 - saibotu for some ticket related info
 - Plailects-Guide-Writing-Style
