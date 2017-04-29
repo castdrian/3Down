@@ -29,11 +29,11 @@ So just follow the given instructions.
    
 ## O3DS/2DS
 **11.2**
-- [11.2.0-35E_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:53338CE5570D812133D957F69F6ED9240CE5626B&dn=11.2.0-35E_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+- [11.2.0-35E_ctrtransfer_o3ds.7z  currently unavailable]()
 - [11.2.0-35U_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:e448fa57d33ce6fb69dce2ddf08fc657fdc3910a&dn=11.2.0-35U_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce)  
 
 **11.3**
-- [11.3.0-36E_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:9D31DC170E2F64B3BB0D81208CE24B614A0C89E1&dn=11.3.0-36E_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+- [11.3.0-36E_ctrtransfer_o3ds.7z currently unavailable]()
 
 ### Section I - Updating Luma3DS
 
