@@ -100,7 +100,9 @@ In this section, we will be restoring your device's Tickets and friendsave.bin
 9. Navigate to **current directory**
 10. Hit **A**
 11. Select **Install and delete all Tickets** and hit **A** to install
-12. Exit **FBI**
+12. Press **B** to decline Titles being downloaded from Ninty's CDN Servers
+**DONE**
+
 
 
 ### Donations
