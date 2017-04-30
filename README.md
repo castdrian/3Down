@@ -112,7 +112,7 @@ If you want to support me to keep this project alive you can do that right Here:
 - Bitcoin: 19oxvLrCc688DRV9cXTSV1wnQtozRKC6uC
 
 
-(I am seeding the Torrents by myself rn!)
+(I made most of the images myself, cleaned them up and I am seeding the Torrents by myself rn!)
 
 ### Contact
 - Mail: adrian.f.castro.mail@gmail.com
