@@ -17,23 +17,23 @@ So just follow the given instructions.
 
 ## N3DS       
 **11.2**
-   - [11.2.0-35E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1C1C3CA3791D32CF5130A896E1DAE81F70AB40F5&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
+   - [11.2.0-35E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:CA8DC43A026F08C9A4AF7D3F3AFC27FB8DC68733&dn=11.2.0-35E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
    
 **11.3**   
-   - [11.3.0-36E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1D57D6CEC27B6C69212E3D38A423D2920CD7F35B&dn=11.3.0-36E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)  
+   - [11.3.0-36E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:1A89B119463F4F9F18BEFD2D7D2ACEB387E20860&dn=11.3.0-36E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)  
    - [11.3.0-36U_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E092D5CD157AAE22A286E8691B135D380962356C&dn=11.3.0-36U_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
    - [11.3.0-36J_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:B77C5E836159AED32E9056E8AB296053BC2BD40A&dn=11.3.0-36J_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
    
 **11.4**   
-   - [11.4.0-37E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:E2BC86AB8A1BE69C146A22667F03D3A6FBE833F3&dn=11.4.0-37E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
+   - [11.4.0-37E_ctrtransfer_n3ds.7z](magnet:?xt=urn:btih:59674673AE1BBCE4B56FB7940300444AF7D26311&dn=11.4.0-37E_ctrtransfer_n3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)   
    
 ## O3DS/2DS
 **11.2**
-- [11.2.0-35E_ctrtransfer_o3ds.7z  currently unavailable]()
+- [11.2.0-35E_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:A7373E40624C3A346C0C27903902EDBB67F296AB&dn=11.2.0-35E_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 - [11.2.0-35U_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:e448fa57d33ce6fb69dce2ddf08fc657fdc3910a&dn=11.2.0-35U_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce)  
 
 **11.3**
-- [11.3.0-36E_ctrtransfer_o3ds.7z currently unavailable]()
+- [11.3.0-36E_ctrtransfer_o3ds.7z](magnet:?xt=urn:btih:0D262C36904DD232963E00E16DCCF732E7DAA0D6&dn=11.3.0-36E_ctrtransfer_o3ds.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
 ### Section I - Updating Luma3DS
 
@@ -72,7 +72,7 @@ In this section, we will be flashing your Device's CTRNAND partition to the desi
 ### Instructions
 
 1. Remove your SD card from your device, then insert your SD card into your computer
-3. Extract the content of the **11.X.0-3XX_ctrtransfer_x3ds.7z file** to the root of your SD Card
+3. Extract the **files9** folder found in the **11.X.0-3XX_ctrtransfer_x3ds.7z file** to the root of your SD Card
 4. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 5. Launch Decrypt9WIP
 6. Navigate to **SysNAND Options / EmuNAND Options if you are using this guide on an EmuNAND**
