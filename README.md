@@ -110,6 +110,7 @@ In this section, we will be restoring your device's Tickets and friendsave.bin
 If you want to support me to keep this project alive you can do that right Here:
 - [Paypal](https://www.paypal.me/adrifcastr)
 - Bitcoin: 19oxvLrCc688DRV9cXTSV1wnQtozRKC6uC
+<img src="/donate_64.png" alt="hi" class="inline"/>
 
 
 (I made most of the images myself, cleaned them up and I am seeding the Torrents by myself rn!)
