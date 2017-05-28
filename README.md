@@ -1,6 +1,6 @@
 ### Welcome to 3Down
 
-If you went over here, you probably are a N3DS user using Arm9LoaderHax + Luma3DS/Corbenik/anything else that supports the 11.4 NFIRM of the 3DS.
+If you went over here, you probably are a N3DS user using Arm9LoaderHax/Boot9Strap + Luma3DS/Corbenik/anything else that supports the 11.4 NFIRM of the 3DS.
 
 And you want to CTRTRANSFER to another Firmware instead of using SysDowngrader.
 So just follow the given instructions.
@@ -13,7 +13,7 @@ So just follow the given instructions.
 - The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 - The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest)
 - A Torrent Client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-- The CTRNAND-Transer File corresponding to your 3DS Model, Region and Firmware you want.
+- The CTRNAND-Transfer File corresponding to your 3DS Model, Region and Firmware you want.
 
 ## N3DS       
 **11.2**
@@ -41,9 +41,12 @@ So just follow the given instructions.
 In this section, we will be Updating Luma3DS to the latest one available. If you a already using Luma v7+ you can skip this step
    
 ### Instructions
-
+**Arm9LoaderHax**
 1. Remove your SD card from your device, then insert your SD card into your computer
 2. Put the **arm9loaderhax.bin** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files
+**Boot9Strap**
+1. Remove your SD card from your device, then insert your SD card into your computer
+2. Put the **boot.firm** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files
 
 ### Section II - Backing up Tickets & friendsave.bin
 
@@ -53,7 +56,10 @@ In this section, we will be backing up your device's Tickets and friendsave.bin
 ### Instructions
 
 1. Remove your SD card from your device, then insert your SD card into your computer
+**If using Arm9LoaderHax**
 2. Put the Decrypt9WIP.bin from the Decrypt9WIP release into /luma/payloads
+**If using Boot9Strap**
+2. Put the Decrypt9WIP.firm from the Decrypt9WIP release into /luma/payloads
 3. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 4. Launch Decrypt9WIP
 5. Navigate to **Ticket/Titlekey Options**
@@ -124,7 +130,7 @@ If you want to support me to keep this project alive you can do that right Here:
 - d0k3 for his work on Decrypt9WIP
 - saibotu for some ticket related info
 - Plailects-Guide-Writing-Style
-
+- AlexL29 for updating the guide for Boot9Strap
 
 
 
