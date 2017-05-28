@@ -43,7 +43,8 @@ In this section, we will be Updating Luma3DS to the latest one available. If you
 ### Instructions
 **Arm9LoaderHax**
 1. Remove your SD card from your device, then insert your SD card into your computer
-2. Put the **arm9loaderhax.bin** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files
+2. Put the **arm9loaderhax.bin** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files  
+
 **Boot9Strap**
 1. Remove your SD card from your device, then insert your SD card into your computer
 2. Put the **boot.firm** from the **Luma3DS.7z** onto the root of your SD Card, overwriting existing files
@@ -56,11 +57,13 @@ In this section, we will be backing up your device's Tickets and friendsave.bin
 ### Instructions
 
 1. Remove your SD card from your device, then insert your SD card into your computer
-**If using Arm9LoaderHax**
+
+**If using Arm9LoaderHax**  
 2. Put the Decrypt9WIP.bin from the Decrypt9WIP release into /luma/payloads
 
-**If using Boot9Strap**
+**If using Boot9Strap**  
 2. Put the Decrypt9WIP.firm from the Decrypt9WIP release into /luma/payloads
+
 3. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
 4. Launch Decrypt9WIP
 5. Navigate to **Ticket/Titlekey Options**
