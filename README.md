@@ -58,6 +58,7 @@ In this section, we will be backing up your device's Tickets and friendsave.bin
 1. Remove your SD card from your device, then insert your SD card into your computer
 **If using Arm9LoaderHax**
 2. Put the Decrypt9WIP.bin from the Decrypt9WIP release into /luma/payloads
+
 **If using Boot9Strap**
 2. Put the Decrypt9WIP.firm from the Decrypt9WIP release into /luma/payloads
 3. Put the SD Card back into your N3DS and launch the Luma3DS Chainloader by holding **START** at boot
